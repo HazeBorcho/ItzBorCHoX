@@ -1,0 +1,11 @@
+1.) Head to this website and tick DATA and CCV2 this allows us to see the secret code
+and the expiry date etc. (https://bestccgen.com/namso-ccgen//)
+
+2.) In the BIN section paste this exact code in (5538902xxxxxxxxx). Once you have done this
+enter for the amount (100) and then click generate.
+
+3.) Once you have clicked the generate button a whole lot of numbers should come up,
+copy all the numbers in the box and paste it into this checker which you can find on this
+link. (https://mrchecker.net/card/ccn2//)
+
+4.) And byu nitro with CC :)
